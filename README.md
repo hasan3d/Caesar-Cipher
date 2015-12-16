@@ -1,4 +1,4 @@
-# Prject - Caesar Cipher
+# Project - Caesar Cipher
 
 ## The Odin Project Assignment
 
